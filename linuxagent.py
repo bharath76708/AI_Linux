@@ -1,6 +1,6 @@
 import os
 
-os.environ["GOOGLE_API_KEY"] = "GIVE Youe own API KEY"
+os.environ["GOOGLE_API_KEY"] = "GIVE Your own API KEY"
 
 # AI LLM Model Access
 from langchain_google_genai import ChatGoogleGenerativeAI
