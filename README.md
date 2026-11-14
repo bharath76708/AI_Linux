@@ -1,7 +1,7 @@
 # AI_Linux
-# linux Agent
+# Linux Agent
  
-### git clone 
+### Git clone 
 
 ## Bharath
 
