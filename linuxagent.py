@@ -1,4 +1,4 @@
-import os
+import oss
 
 os.environ["GOOGLE_API_KEY"] = "GIVE Your own API KEY"
 
